@@ -1,0 +1,8 @@
+D:\NarrativeProject\bin\Debug\NarrativeProject.exe.config
+D:\NarrativeProject\bin\Debug\NarrativeProject.exe
+D:\NarrativeProject\bin\Debug\NarrativeProject.pdb
+D:\NarrativeProject\obj\Debug\NarrativeProject.csproj.AssemblyReference.cache
+D:\NarrativeProject\obj\Debug\NarrativeProject.csproj.SuggestedBindingRedirects.cache
+D:\NarrativeProject\obj\Debug\NarrativeProject.csproj.CoreCompileInputs.cache
+D:\NarrativeProject\obj\Debug\NarrativeProject.exe
+D:\NarrativeProject\obj\Debug\NarrativeProject.pdb
